@@ -20,7 +20,7 @@ Este proyecto es una aplicación desarrollada en SwiftUI que permite encriptar y
 2. Selecciona el archivo que deseas encriptar o desencriptar.
 3. Elige la acción (encriptar o desencriptar).
 4. Proporciona una contraseña para el proceso de encriptación/desencriptación.
-5. Guarda el archivo resultante en la ubicación deseada.
+5. TODO: Guarda el archivo resultante en la ubicación deseada.
 
 ## Código de Ejemplo -- WIP --
 
