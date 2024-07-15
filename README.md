@@ -24,11 +24,11 @@ Este proyecto es una aplicación desarrollada en SwiftUI que permite encriptar y
 4. Proporciona una contraseña para el proceso de encriptación/desencriptación.
 5. Guarda el archivo resultante en la ubicación deseada.
 
-## Código de Ejemplo
+## Código de Ejemplo -- WIP --
 
-### WIP
-### Encriptación
-### Desenncriptación
+## WIP
+## Encriptación
+## Desenncriptación
 
 ## Contribuciones
 
