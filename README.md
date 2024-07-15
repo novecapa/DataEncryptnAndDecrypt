@@ -8,8 +8,6 @@ Este proyecto es una aplicación desarrollada en SwiftUI que permite encriptar y
 
 - **Encriptación de archivos**: Protege tus archivos sensibles mediante algoritmos de encriptación avanzados.
 - **Desencriptación de archivos**: Recupera tus archivos encriptados cuando los necesites.
-- **Interfaz de usuario intuitiva**: Aprovecha las capacidades de SwiftUI para ofrecer una experiencia de usuario fluida y moderna.
-- **Gestión de archivos**: Permite seleccionar archivos desde el dispositivo y manejar el proceso de encriptado/desencriptado fácilmente.
 
 ## Requisitos
 
